@@ -1,8 +1,5 @@
 My name is Akshit.
 How are you?
 i am hero.
-<<<<<<< HEAD
 Lets see what will happen now.
-=======
 Here we are again trying to create merge conflict.
->>>>>>> 32651927e219d5f0b422582000dca0f01022fac1
